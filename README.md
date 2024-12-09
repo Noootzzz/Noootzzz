@@ -2,13 +2,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-nathan.boisleux@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathan.boisleux@gmail.com)  
 📍 Courbevoie (92) / Lardy (91)  
 🔗 [Mon Portfolio](https://nathanboisleux.com)  
+🔗 [Mon LinkedIn](https://www.linkedin.com/in/nathan-boisleux-05111b290/)  
 
 ---
 
 ## 👨‍💻 **À propos de moi**  
 Étudiant passionné par le **coding** et les **nouvelles technologies**, je suis actuellement en Bachelor à l’IIM Digital School. Mon objectif : devenir un expert du développement web **front-end** et **back-end**.  
 
-Je suis à la recherche d’un **stage de 2 à 4 mois** dans le domaine du digital, où je pourrais mettre à profit mes compétences techniques et créatives pour participer à des projets innovants.  
+Je suis à la recherche d’un **stage de 2 à 4 mois** à partir d'avril 2025 dans le domaine du digital, où je pourrais mettre à profit mes compétences techniques et créatives pour participer à des projets innovants.  
 
 ---
 
