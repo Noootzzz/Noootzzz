@@ -21,7 +21,7 @@ Je suis à la recherche d’un **stage de 2 à 4 mois** dans le domaine du digit
 
 ---
 
-## 💼 **Expériences professionnelles**  
+## 💼 **Expériences**  
 - **Stage d’observation** chez BigBen/Nacon (Gaming), Lille – Février 2020.  
 - **Stage DigiWeek** à l’ESD (Découverte des métiers du digital), Paris – Février 2022.  
 - **Stage EDF**, Palaiseau – 2024.  
