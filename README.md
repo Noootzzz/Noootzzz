@@ -25,8 +25,7 @@ Je suis à la recherche d’un **stage de 2 à 4 mois** dans le domaine du digit
 - **Stage d’observation** chez BigBen/Nacon (Gaming), Lille – Février 2020.  
 - **Stage DigiWeek** à l’ESD (Découverte des métiers du digital), Paris – Février 2022.  
 - **Stage EDF**, Palaiseau – 2024.  
-  - Création d’un site vitrine pour un projet quantique.  
-  - Développement Frontend et Backend d’un site d’échange de cartes.  
+  - Création d’un site vitrine pour un projet quantique.    
 - **Lauréat Epic Digital Day** – Création d’un jeu de société innovant en équipe (6 mois).  
 
 ---
