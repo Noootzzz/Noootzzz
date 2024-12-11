@@ -33,15 +33,12 @@ Je suis à la recherche d’un **stage de 2 à 4 mois** à partir d'avril 2025 d
 
 ## 🛠️ **Compétences Techniques**  
 ### Langages de programmation  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
 
 ### Frameworks & outils  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
 
 ---
 
