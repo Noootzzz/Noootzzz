@@ -9,7 +9,7 @@
 ## 👨‍💻 **À propos de moi**  
 Étudiant passionné par le **coding** et les **nouvelles technologies**, je suis actuellement en Bachelor à l’IIM Digital School. Mon objectif : devenir un expert du développement web **Full Stack**.  
 
-Je suis à la recherche d’un **stage de 2 à 4 mois** à partir d'avril 2025 dans le domaine du digital, où je pourrais mettre à profit mes compétences techniques et créatives pour participer à des projets innovants.  
+Je suis à la recherche d’un **stage de 2 à 4 mois** à partir d'avril 2025 dans le domaine du digital, où je pourrais mettre à profit mes compétences techniques et créatives pour participer à des projets innovants et qui pourrait mener à une alternance d'une durée d'un an en septembre 2025.  
 
 ---
 
