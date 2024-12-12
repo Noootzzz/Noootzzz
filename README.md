@@ -1,4 +1,4 @@
-# 🌟 **Nathan Boileux**  
+# 🌟 **Nathan Boisleux**  
 [![Gmail Badge](https://img.shields.io/badge/-nathan.boisleux@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nathan.boisleux@gmail.com)  
 📍 Courbevoie (92) / Lardy (91)  
 🔗 [Mon Portfolio](https://nathanboisleux.com)  
