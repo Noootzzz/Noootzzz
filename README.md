@@ -21,10 +21,12 @@ Je suis à la recherche d’un **stage de 2 à 4 mois** à partir d'avril 2025 d
 ---
 
 ## 💼 **Expériences**  
+- **Bourse aux projets.**
+  - Chef de projets d'une équipe d'étudiants.
 - **Stage EDF**, Palaiseau – 2024.  
   - Création d’un site vitrine pour un projet quantique.    
-- **Lauréat Epic Digital Day à l'IIM Digital School**
-  – Création d’un jeu de société innovant en équipe (6 mois).  
+- **Lauréat Epic Digital Day** à l'IIM Digital School.
+  - Création d’un jeu de société innovant en équipe (6 mois).
 
 ---
 
